@@ -1,6 +1,3 @@
-
-
-
 terraform {
     backend "s3" {
         bucket = "dev-applications-backend-state-karishmadamania"
