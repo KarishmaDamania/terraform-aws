@@ -2,3 +2,5 @@
 *.tfstate.backup
 *.tfvars
 .terraform/
+*.pem
+ec2instance.txt
